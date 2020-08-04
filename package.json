@@ -1,0 +1,10 @@
+{
+  "name": "deutsch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jakob",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
